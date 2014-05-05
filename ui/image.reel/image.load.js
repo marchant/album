@@ -1,0 +1,1 @@
+montageDefine("703617f","ui/image.reel/image",{dependencies:["montage","montage/ui/component"],factory:function(e,t){var n=e("montage").Montage,i=e("montage/ui/component").Component;t.Image=n.create(i,{_src:{value:null},src:{set:function(e){e!==this._src&&(this._src=e,this.needsDraw=!0)}},draw:{value:function(){this._element.style.backgroundImage="url("+this._src+")"}}})}});

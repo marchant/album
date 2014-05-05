@@ -1,0 +1,1 @@
+{"name":"albumexperience","version":"0.1.0","dependencies":{"montage":"~0.14.2","digit":"~0.5.0"},"bundle":["ui/main.reel"],"shard":4,"hash":"703617f","mappings":{"montage":{"name":"montage","hash":"b15df60","location":"packages/montage@b15df60/"},"digit":{"name":"digit","hash":"69f9379","location":"packages/digit@69f9379/"}},"production":true,"useScriptInjection":true}

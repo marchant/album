@@ -1,0 +1,1 @@
+.facade{top:50%;left:50%;margin-left:-640px;margin-top:-350px;z-index:1}.facade,.facade-content{position:absolute;width:1280px;height:700px;overflow:hidden}.facade-content{left:0;top:0;background:0 0}@media only screen and (max-width:1024px),only screen and (max-height:768px){body{overflow:hidden}.facade{-webkit-transform:scale(.75)translate(-170px,-20px)}}
